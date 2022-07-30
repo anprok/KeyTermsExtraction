@@ -1,0 +1,5 @@
+content:
+- Theory
+- TreebankWordTokenizer
+- Regular expressions and tokens
+- Tokenizing a particular sentence in the text
